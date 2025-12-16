@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.log
+
+# 设计源文件（避免误传）
+*.psd
+*.psb
+*.ai
+*.fig
+*.sketch
+*.blend
+
+# 备份
+*_backup.*
+*_old.*
